@@ -1,3 +1,5 @@
+Simple game development framework for Java
+
 Copyright (c) 2014 James S. Cho
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
